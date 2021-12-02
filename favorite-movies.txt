@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 Favorite Movies:
 
 Pulp Fiction
@@ -7,9 +6,7 @@ The French Dispatch
 Paid in Full
 Every Leonardo Dicaprio Film
 
-=======
 Lili's favorite movies:
 1. 21 Jump Street
 2. King Arthur: Legend of the Sword
 3. Hairspray
->>>>>>> 563c8d0f22d23c5873445b1833837ffac314afc4
